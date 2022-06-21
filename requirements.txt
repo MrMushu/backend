@@ -17,7 +17,7 @@ mysql==0.0.2
 mysql-connector-python==8.0.12
 mysqlclient==1.4.2.post1
 
-numpy==1.14.3
+numpy==1.22.0
 numpydoc==0.8.0
 
 pandas==0.23.0
